@@ -1,2 +1,2 @@
-# CodeAlpha_Project_name
+# CodeAlpha_Project_chatbot.py
 Python Programming Project. 
